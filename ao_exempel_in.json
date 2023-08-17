@@ -1,6 +1,10 @@
 {
 	"AgreementObjectContract":
 	{
+		"FirstTierContractExternalId":"FK00002280",
+		"FirstTierContractMainCodeInternalNo":"00043",
+		"AgreementObjectExternalId":"20230817-01"
+		
 		"MessageId":"650500907",
 		"MessageDate":"2023-08-16T14:04:07.8563278Z",
 		"SendingPartyId":"06440-00000",
